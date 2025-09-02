@@ -1,6 +1,6 @@
 # ViCxLSTM: An extended Long Short-term Memory vision transformer for complex remote sensing scene classification
 
-[Swalpa Kumar Roy](https://swalpa.github.io/), [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali/), [Koushik Biswas], [Danfeng Hong](https://sites.google.com/view/danfeng-hong/), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
+[Swalpa Kumar Roy](https://swalpa.github.io/), [Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali/), [Koushik Biswas], [Danfeng Hong](https://sites.google.com/view/danfeng-hong/), and [Pedram Ghamisi](https://www.lancaster.ac.uk/lec/about-us/people/pedram-ghamisi/)
 
 
 <img src="Architecture.jpg"/>
