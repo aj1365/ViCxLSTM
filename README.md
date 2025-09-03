@@ -26,18 +26,18 @@ Citation
 
 <img src="NWPURESISC_45.jpg"/>
 
-Fig. 1. Several examples of the high-resolution aerial imagery for various scene classes in the NWPU RESISC–45
+Fig. 2. Several examples of the high-resolution aerial imagery for various scene classes in the NWPU RESISC–45
 data benchmark.
 
 
 <img src="Training_Time.jpg"/>
 
-Fig. 2. Training time comparison of the developed deep learning models.
+Fig. 3. Training time comparison of the developed deep learning models.
 
 
 <img src="Parameters_Accuracy.jpg"/>
 
-Fig. 3. Comparison of the number of Parameters of the developed deep learning models.
+Fig. 4. Comparison of the number of Parameters of the developed deep learning models.
 
 
 Acknowledgement
